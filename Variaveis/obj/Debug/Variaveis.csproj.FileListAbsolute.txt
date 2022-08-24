@@ -1,0 +1,7 @@
+C:\WorkspaceLediane\Comentarios\Variaveis\bin\Debug\Variaveis.exe.config
+C:\WorkspaceLediane\Comentarios\Variaveis\bin\Debug\Variaveis.exe
+C:\WorkspaceLediane\Comentarios\Variaveis\bin\Debug\Variaveis.pdb
+C:\WorkspaceLediane\Comentarios\Variaveis\obj\Debug\Variaveis.csproj.AssemblyReference.cache
+C:\WorkspaceLediane\Comentarios\Variaveis\obj\Debug\Variaveis.csproj.CoreCompileInputs.cache
+C:\WorkspaceLediane\Comentarios\Variaveis\obj\Debug\Variaveis.exe
+C:\WorkspaceLediane\Comentarios\Variaveis\obj\Debug\Variaveis.pdb
